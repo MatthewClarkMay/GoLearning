@@ -1,6 +1,7 @@
 # GoLearning
 Personal GoLang learning curriculum
 
+### Ordered Reference
 - [My Journey From Python To Go](https://medium.com/appsflyer/my-journey-from-python-to-go-3859783c6b3c)
 - [An Introduction To Go Programming (Book)](https://www.golang-book.com/books/intro)
 - [How To Use Slice Capacity And Length In Go](https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go/)
@@ -16,3 +17,5 @@ Personal GoLang learning curriculum
 - [Go By Example](https://gobyexample.com/)
 - [Automate The Boring Stuff (Go Version)](https://github.com/dreddsa5dies/automateGo)
 
+### General Reference
+- [Awesome Go](https://github.com/avelino/awesome-go)
