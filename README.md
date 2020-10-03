@@ -10,6 +10,7 @@ Personal GoLang learning curriculum
 - [Language Mechanics On Stacks And Pointers](https://www.ardanlabs.com/blog/2017/05/language-mechanics-on-stacks-and-pointers.html)
 - [Design Philosophy On Data And Semantics](https://www.ardanlabs.com/blog/2017/06/design-philosophy-on-data-and-semantics.html)
 - [Scheduling In Go](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html)
+- [Go's Work Stealing Scheduler](https://rakyll.org/scheduler/)
 - [Demystifying Memory Management In Modern Programming Languages](https://deepu.tech/memory-management-in-programming/)
 - [Visualizing Memory Management In Golang](https://deepu.tech/memory-management-in-golang/)
 - [The Uses And Misuses of Panics In Go](https://eli.thegreenplace.net/2018/on-the-uses-and-misuses-of-panics-in-go/)
