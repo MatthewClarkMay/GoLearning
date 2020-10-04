@@ -17,6 +17,7 @@ Personal GoLang learning curriculum
 - [The Uses And Misuses of Panics In Go](https://eli.thegreenplace.net/2018/on-the-uses-and-misuses-of-panics-in-go/)
 - [Effective Go](https://golang.org/doc/effective_go.html)
 - [Go By Example](https://gobyexample.com/)
+- [Marshal and unMarshal of Struct to JSON in Golang](https://ednsquare.com/story/marshal-and-unmarshal-of-struct-to-json-in-golang------CG5PTJ)
 - [Automate The Boring Stuff (Go Version)](https://github.com/dreddsa5dies/automateGo)
 
 ### General Reference
