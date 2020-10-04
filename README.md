@@ -13,6 +13,7 @@ Personal GoLang learning curriculum
 - [Go's Work Stealing Scheduler](https://rakyll.org/scheduler/)
 - [Demystifying Memory Management In Modern Programming Languages](https://deepu.tech/memory-management-in-programming/)
 - [Visualizing Memory Management In Golang](https://deepu.tech/memory-management-in-golang/)
+- [Scott Meyers: CPU Caches and Why You Care](https://www.youtube.com/watch?v=WDIkqP4JbkE)
 - [The Uses And Misuses of Panics In Go](https://eli.thegreenplace.net/2018/on-the-uses-and-misuses-of-panics-in-go/)
 - [Effective Go](https://golang.org/doc/effective_go.html)
 - [Go By Example](https://gobyexample.com/)
